@@ -21,7 +21,9 @@ Trying github theme for website using readme.md file.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=philsaurabh&show_icons=true&hide=contribs&title_color=C00" alt="Saurabh's github stats" />
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philsaurabh&title_color=C00&layout=compact" />
-</a><hr />
+</a>
+
+<hr />
 
 ## My Digital Footprints 🌱
 I am full stack developer and ML enthusiast looking to solve real world problems. 
