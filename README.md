@@ -16,13 +16,22 @@ Trying github theme for website using readme.md file.
 - 🥅 Goal (2020): **Contribute** openly to **Data Science and Web Developer community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 - ⚡ Fun fact: I love classical music.
-- 💻 Here are my **GitHub Stats**:<br/><br/>
+- 💻 Here are my **GitHub Stats and some works**:<br/><br/>
 <a href="https://github.com/philsaurabh/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=philsaurabh&show_icons=true&hide=contribs&title_color=C00" alt="Saurabh's github stats" />
-
+</a>
+<a href="https://github.com/philsaurabh/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philsaurabh&title_color=C00&layout=compact" />
 </a>
-
+<a href="https://github.com/philsaurabh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=philsaurabh&repo=Predict-Something-ML-Prediction-App&title_color=C00" />
+</a>    
+<a href="https://github.com/philsaurabh/philsaurabh.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=philsaurabh&repo=SaurabhWebResume&title_color=C00" />
+</a>
+<a href="https://github.com/philsaurabh/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philsaurabh&title_color=C00" />
+</a>
 <hr />
 
 ## My Digital Footprints 🌱
