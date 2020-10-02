@@ -1,6 +1,3 @@
-# Github-theme-trial-website
-Trying github theme for website using readme.md file.
-
 ## Hi there, I'm [Saurabh](https://philsaurabh.github.io/SaurabhWebResume/)!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![website badge](https://img.shields.io/badge/website-philsaurabh-yellow?style=flat-square)](https://philsaurabh.wordpress.com)
 [![twitter badge](https://img.shields.io/badge/twitter-@saurabhaofficial-blue?style=flat-square&logo=twitter)](https://twitter.com/saurbhaofficial)
@@ -69,7 +66,6 @@ I am visible on multiple platforms with the name philsaurabh(Lover of Saurabh �
 <hr/>
 
 ## Connect me on 🤝
-- My [Email](tavalkarsaurabh@gmail.com)  💌
 - My [LinkedIn](https://www.linkedin.com/in/philsaurabh/) 👨🏻‍💻
 - My [Github](https://www.github.com/philsaurabh)  👨🏻‍🧮
 <br/>
